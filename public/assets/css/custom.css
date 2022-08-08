@@ -1,0 +1,128 @@
+body {
+    font-size: 14px;
+    font-family: 'Roboto';
+}
+.header-people-count {
+    height: 16px;
+    left: 11.17%;
+    right: 10.61%;
+    top: calc(50% - 16px/2);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.left-arrow-btn {
+    border: 1px solid #ccc;
+    background: #ccc;
+    width: 25px;
+    height: 25px;
+    margin: 0 15px 0 58px;
+}
+
+.left-arrow-img {
+    margin: 0 0 0 2px;
+}
+
+.right-arrow-btn {
+    border: 1px solid #ccc;
+    background: #ccc;
+    width: 25px;
+    height: 25px;
+    margin: 0 0 0 15px;
+}
+
+.right-arrow-img {
+    margin: 0 0 0 2px;
+}
+
+.count-page {
+    height: 16px;
+    left: 25.14%;
+    right: 25.14%;
+    top: calc(50% - 16px/2 - 1px);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.row-bottom {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.form-inline .form-control {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+}
+
+.form-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -5px;
+    margin-left: -5px;
+}
+
+.form-row > .col {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+label {
+    margin-bottom: 0.5rem;
+}
+
+.filter-btn {
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #FF8D00;
+    border-radius: 5px;
+    border-color: #FF8D00;
+}
+
+.input-group {
+    box-sizing: border-box;
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+}
+::placeholder {
+    height: 15px;
+    left: 4.32%;
+    right: 55.14%;
+    top: calc(50% - 15px/2 + 12px);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+
+    color: #999999;
+}
+
+table tr th {
+    font-weight: 400;
+    color: #555555;
+}
+
+table tr td {
+    height: 18px;
+    left: 5.27%;
+    right: 84.36%;
+    top: calc(50% - 18px/2);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+
+    color: #000000;
+}
